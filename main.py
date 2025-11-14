@@ -1,0 +1,1 @@
+print("fase inicial del proyecto")
